@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MSIG XXI - My Static Website</title>
-    <link>https://alopezag.github.io/static_website/</link>
-    <description>Recent content on MSIG XXI - My Static Website</description>
+    <title>MSIG XXI - My New Hugo Site</title>
+    <link>https://github.com/karin-romero/static_website/</link>
+    <description>Recent content on MSIG XXI - My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2020 16:39:44 +0200</lastBuildDate>
     
-	<atom:link href="https://alopezag.github.io/static_website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/karin-romero/static_website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second post</title>
-      <link>https://alopezag.github.io/static_website/posts/secondpost/</link>
+      <link>https://github.com/karin-romero/static_website/posts/secondpost/</link>
       <pubDate>Sun, 10 May 2020 16:39:44 +0200</pubDate>
       
-      <guid>https://alopezag.github.io/static_website/posts/secondpost/</guid>
+      <guid>https://github.com/karin-romero/static_website/posts/secondpost/</guid>
       <description>This quick start uses macOS in the examples. For instructions about how to install Hugo on other operating systems, see install.
 It is recommended to have Git installed to run this tutorial.
 For other approaches learning Hugo like book or a video tutorial refer to the external learning resources page.</description>
@@ -24,10 +24,10 @@ For other approaches learning Hugo like book or a video tutorial refer to the ex
     
     <item>
       <title>My First Post - HUGO</title>
-      <link>https://alopezag.github.io/static_website/posts/my-first-post/</link>
+      <link>https://github.com/karin-romero/static_website/posts/my-first-post/</link>
       <pubDate>Sun, 10 May 2020 16:13:45 +0200</pubDate>
       
-      <guid>https://alopezag.github.io/static_website/posts/my-first-post/</guid>
+      <guid>https://github.com/karin-romero/static_website/posts/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est turpis, interdum non nisi nec, pretium aliquet risus. Cras eleifend ornare justo. Vivamus volutpat elementum mauris eget convallis. Nunc et lorem enim. Ut eget purus vitae tortor lobortis feugiat. Maecenas facilisis lorem interdum, laoreet nisi at, feugiat lectus. Duis non porta ante. Fusce id massa et velit suscipit sodales. Etiam sollicitudin neque quis sem pulvinar commodo. Vivamus faucibus ipsum eget augue facilisis facilisis.</description>
     </item>
     
