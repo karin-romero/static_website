@@ -3,3 +3,16 @@ languageCode = "en-us"
 title = "MSIG XXI - My New Hugo Site"
 publishDir = "docs"
 theme = "beautifulhugo"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Beautiful Hugo"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
